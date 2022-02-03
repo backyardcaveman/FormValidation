@@ -1,0 +1,22 @@
+.title {
+    max-width: 95vw;
+    height: 90px;
+    margin: auto;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content:space-around;
+    border-bottom: 2px solid grey;
+}
+
+.link {
+    display: inline;
+    cursor: pointer;
+    padding: 10px;
+    text-align: center;
+    transition: 0.3s;
+}
+
+.link:hover {
+    color: grey;
+}

@@ -1,0 +1,16 @@
+.btn {
+    width: 100%;
+    font-size: 20px;
+    background-color: #1976D2;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 7px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.blue {
+    background-color: #2196F3;
+    transition: .3s;
+}
